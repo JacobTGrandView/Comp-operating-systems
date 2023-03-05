@@ -1,2 +1,2 @@
 # Comp-operating-systems
-Computer Architecture and Operating Systems class
+All of the projects from my Computer Architecture and Operating Systems class
