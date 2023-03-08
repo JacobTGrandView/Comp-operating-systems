@@ -16,7 +16,7 @@ Created on Fri Feb  4 17:42:08 2022
 #decimal base 1
 #each value to exponent
 
-
+'''
 def BinaryDecimal(num):
     
     
@@ -32,7 +32,7 @@ def BinaryDecimal(num):
 
 num = int(input("Enter binary number: ")) #enter binary number
 print(BinaryDecimal(num)) #print decimal number
-
+'''
 
 
 """
